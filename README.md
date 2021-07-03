@@ -12,7 +12,7 @@ pkg install git
 
 pkg install python
 
-git clone
+git clone https://github.com/bydeathlxncer/gasparzin
 
 cd gasparzin
 

@@ -1,3 +1,4 @@
+![20210703_015038](https://user-images.githubusercontent.com/83184525/124343429-c10cef00-dba1-11eb-8e32-35a91c8b866b.jpg)
 [!] está script e para estudos não me responsabilizo por seus feito.
 
 [✓] essa script gera números de cartões de crédito aleatórios que talvez

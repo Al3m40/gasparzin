@@ -17,5 +17,7 @@ git clone https://github.com/bydeathlxncer/gasparzin
 cd gasparzin
 
 python3 gasparzin.py
--
+
+
 não me responsabilizo por seus feitos usando está ferramenta.
+-
